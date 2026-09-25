@@ -18,3 +18,12 @@ for right in range(n):
         best_start = left + 1
 
 print(best_length, best_start)
+
+
+# Sample Input
+# 8
+# 4 2 2 3 1 5 4 2
+# 2
+
+# Sample Output
+# 4 1
