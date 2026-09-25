@@ -26,3 +26,16 @@ for start, end in intervals:
 
 for start, end in result:
     print(start, end)
+
+# #sample input:
+# Sample Input
+# 4
+# 1 3
+# 2 6
+# 8 10
+# 15 18
+
+# Sample Output
+# 1 6
+# 8 10
+# 15 18
