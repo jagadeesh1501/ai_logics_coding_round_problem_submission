@@ -29,3 +29,13 @@ while i < n or i < m or carry:
     i += 1
 
 print(*result)
+
+# Sample Input 1
+
+# 3
+# 2 4 3
+# 3
+# 5 6 4
+
+# Sample Output 1
+# 7 0 8
